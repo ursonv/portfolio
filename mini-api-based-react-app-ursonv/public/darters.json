@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "name": "Humphries Luke",
+        "nationality": "England",
+        "age": 29,
+        "prize_money": 1556000,
+        "description": "Luke Humphries is a talented young darts player known for his quick throwing style and accuracy. He has risen through the ranks rapidly and is considered one of the promising talents in the sport.",
+        "img": "https://static.flashscore.com/res/image/data/IgoeSjf5-88wdPnG7.png"
+    },
+    {
+        "id": 2,
+        "rank": 2,
+        "name": "van Gerwen Michael",
+        "nationality": "Netherlands",
+        "age": 34,
+        "prize_money": 1092500,
+        "description": "Michael van Gerwen, often referred to as 'Mighty Mike,' is one of the most dominant players in darts history. Known for his fierce competitiveness and incredible scoring ability, he has won numerous major titles and is a fan favorite.",
+        "img": "https://static.flashscore.com/res/image/data/0UhRhajl-rLE2y96b.png"
+    },
+    {
+        "id": 3,
+        "rank": 3,
+        "name": "Smith Michael",
+        "nationality": "England",
+        "age": 33,
+        "prize_money": 1064750,
+        "description": "Michael Smith, also known as 'Bully Boy,' is known for his powerful throwing style and consistent performances. He has reached several major finals and continues to be a top contender in the darts world.",
+        "img": "https://static.flashscore.com/res/image/data/vLgvrY9r-MNiIwmaD.png"
+    },
+    {
+        "id": 4,
+        "rank": 4,
+        "name": "Aspinall Nathan",
+        "nationality": "England",
+        "age": 32,
+        "prize_money": 623000,
+        "description": "Nathan Aspinall has quickly made a name for himself in professional darts with his impressive performances on the big stage. He possesses a calm demeanor and remarkable skill, making him a formidable opponent for any player.",
+        "img": "https://static.flashscore.com/res/image/data/C2Bbu1h5-KSSV4AuM.png"
+    },
+    {
+        "id": 5,
+        "rank": 5,
+        "name": "Price Gerwyn",
+        "nationality": "Wales",
+        "age": 39,
+        "prize_money": 594750,
+        "description": "Gerwyn Price, a former professional rugby player, has transitioned into a successful career in darts. Known for his aggressive playing style and intense demeanor on the oche, he has climbed the ranks rapidly and won multiple major titles.",
+        "img": "https://static.flashscore.com/res/image/data/nuQ7xOkl-rNH5ymZk.png"
+    },
+    {
+        "id": 6,
+        "rank": 6,
+        "name": "Cross Rob",
+        "nationality": "England",
+        "age": 33,
+        "prize_money": 586750,
+        "description": "Rob Cross burst onto the darts scene by winning the World Championship in his debut year as a professional player. Nicknamed 'Voltage,' he is known for his methodical approach and ability to produce high-scoring finishes under pressure.",
+        "img": "https://static.flashscore.com/res/image/data/v5qcjiCa-WGgU7FG0.png"
+    },
+    {
+        "id": 7,
+        "rank": 7,
+        "name": "Chisnall Dave",
+        "nationality": "England",
+        "age": 43,
+        "prize_money": 497750,
+        "description": "Dave Chisnall is a seasoned professional darts player known for his consistent performances and prolific scoring ability. He has reached numerous major semi-finals and continues to be a force to be reckoned with in the sport.",
+        "img": "https://static.flashscore.com/res/image/data/QFY9DKAr-nTFwjkoD.png"
+    },
+    {
+        "id": 8,
+        "rank": 8,
+        "name": "Wright Peter",
+        "nationality": "Scotland",
+        "age": 54,
+        "prize_money": 492500,
+        "description": "Peter Wright, also known as 'Snakebite,' is known for his flamboyant style both on and off the oche. He has won multiple major titles, including the World Championship, and is recognized for his colorful and unique darting attire.",
+        "img": "https://static.flashscore.com/res/image/data/viEqZMDa-QJEsk90J.png"
+    },
+    {
+        "id": 9,
+        "rank": 9,
+        "name": "Van den Bergh Dimitri",
+        "nationality": "Belgium",
+        "age": 29,
+        "prize_money": 489000,
+        "description": "Dimitri Van den Bergh, nicknamed 'The DreamMaker,' is a rising star in professional darts known for his exuberant celebrations and dynamic playing style. He has achieved success in both individual and team competitions and is considered a player to watch in the future.",
+        "img": "https://static.flashscore.com/res/image/data/UBoYDjHG-UR5dWZiD.png"
+    },
+    {
+        "id": 10,
+        "rank": 10,
+        "name": "Heta Damon",
+        "nationality": "Australia",
+        "age": 36,
+        "prize_money": 482750,
+        "description": "Damon Heta is an Australian darts player who gained international recognition by winning the Brisbane Darts Masters in 2019. Known for his composed demeanor and accurate finishing, he is considered one of the top talents emerging from the Australian darts scene.",
+        "img": "https://static.flashscore.com/res/image/data/O8FjCHWg-2LoM76J4.png"
+    },
+    {
+        "id": 11,
+        "rank": 11,
+        "name": "Clayton Jonny",
+        "nationality": "Wales",
+        "age": 49,
+        "prize_money": 482250,
+        "description": "Jonny Clayton, also known as 'The Ferret,' is a Welsh professional darts player known for his consistent performances on the circuit. He has enjoyed success in both individual and team competitions and continues to be a contender in major tournaments.",
+        "img": "https://static.flashscore.com/res/image/data/Gd55ZixS-buov5CP6.png"
+    },
+    {
+        "id": 12,
+        "rank": 12,
+        "name": "Noppert Danny",
+        "nationality": "Netherlands",
+        "age": 33,
+        "prize_money": 447500,
+        "description": "Danny Noppert is a Dutch darts player known for his smooth throwing action and accurate finishing. He has represented the Netherlands in international competitions and has achieved success on the professional circuit.",
+        "img": "https://static.flashscore.com/res/image/data/4EEVNjyS-2kPKS2B7.png"
+    },
+    {
+        "id": 13,
+        "rank": 13,
+        "name": "van Duijvenbode Dirk",
+        "nationality": "Netherlands",
+        "age": 31,
+        "prize_money": 447500,
+        "description": "Dirk van Duijvenbode, nicknamed 'The Titan,' is a Dutch darts player known for his energetic and passionate style of play. He has made waves in the professional darts scene with his impressive performances and unique personality.",
+        "img": "https://static.flashscore.com/res/image/data/M7u0YAhl-xvvMYYzg.png"
+    },
+    {
+        "id": 14,
+        "rank": 14,
+        "name": "Dobey Chris",
+        "nationality": "England",
+        "age": 33,
+        "prize_money": 412750,
+        "description": "Chris Dobey, also known as 'Hollywood,' is an English professional darts player known for his smooth throwing action and consistent performances. He has represented England in international competitions and has achieved success on the professional circuit.",
+        "img": "https://static.flashscore.com/res/image/data/zcMweSkl-MwEJoee1.png"
+    },
+    {
+        "id": 15,
+        "rank": 15,
+        "name": "Cullen Joe",
+        "nationality": "England",
+        "age": 34,
+        "prize_money": 408250,
+        "description": "Joe Cullen is an English darts player known for his stylish throwing action and clinical finishing. He has competed in numerous major tournaments and continues to be a prominent figure on the professional darts circuit.",
+        "img": "https://static.flashscore.com/res/image/data/YD8LYFEG-MJ1FbhHL.png"
+    },
+    {
+        "id": 16,
+        "rank": 16,
+        "name": "Smith Ross",
+        "nationality": "England",
+        "age": 35,
+        "prize_money": 394250,
+        "description": "Ross Smith is an English darts player known for his solid performances on the professional circuit. He has represented England in international competitions and continues to compete at a high level in major tournaments.",
+        "img": "https://static.flashscore.com/res/image/data/GlBPWoBr-hQGaMDfs.png"
+    }
+]

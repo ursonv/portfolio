@@ -1,0 +1,77 @@
+.playerCard {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text-decoration: none;
+  background-color: black;
+  border-radius: 10px;
+  padding: .5rem 1rem;
+  transition: transform 0.3s ease;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.playerCardContent {
+  max-width: 200px;
+  text-align: center; 
+}
+
+.playerCardImage {
+  display: block;
+  width: 250px; 
+  height: auto;
+  border-radius: 8px;
+  padding: 0 2rem;
+}
+
+.playerCardName {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: goldenrod;
+}
+
+.playerCardTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.playerCardRank {
+  font-size: 1.25rem;
+  font-weight: bolder;
+}
+
+.playerCardPrize {
+  padding-top: 1rem;
+  font-size: 1rem;
+  color: cyan;
+}
+
+
+
+.playerCardDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.playerCardDetail {
+  padding: 1rem 0 0;
+  font-size: 0.9rem;
+  color: #fff;
+}
+
+.playerCardDescription {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #fff;
+}
+
+.playerCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}

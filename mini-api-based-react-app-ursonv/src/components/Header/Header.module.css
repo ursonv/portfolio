@@ -1,0 +1,40 @@
+/* Header styles */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px; /* Increase padding for better spacing */
+    display: flex;
+    justify-content: space-between; /* Align items at each end of the header */
+    align-items: center; /* Center items vertically */
+}
+
+/* Navigation styles */
+.header__nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header__nav_item {
+    margin-right: 20px;
+}
+
+.header__nav_item:last-child {
+    margin-right: 0; /* Remove margin from the last item */
+}
+
+.header__nav_link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold; /* Make links bold for better visibility */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.header__nav_link:hover {
+    color: #ffc107; /* Change color on hover */
+}
+
+.header__title {
+    font-size: 24px; /* Increase font size for title */
+    margin-right: auto; /* Push the title to the left */
+}

@@ -1,0 +1,36 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer__nav {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.footer__nav-item {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer__nav_link, .footer__nav_item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer__nav_item a:hover {
+    color: goldenrod;
+}
+
+.footer__nav_link:hover {
+    text-decoration: underline;
+
+}
