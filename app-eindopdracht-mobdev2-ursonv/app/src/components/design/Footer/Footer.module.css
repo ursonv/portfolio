@@ -1,0 +1,145 @@
+.footer {
+    background-color: var(--color-grey);
+    color: var(--color-white);
+    padding: 20px 0;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-family: var(--font-secondary);
+}
+
+.logo-container {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.logo {
+    font-family: var(--font-primary);
+    font-size: 56px;
+    font-weight: bold;
+    color: var(--color-green);
+}
+
+.slogan {
+    font-family: var(--font-secondary);
+    font-size: 20px;
+    margin-top: -20px;
+    color: var(--color-white);
+    font-weight: 500;
+}
+
+.accent {
+    color: var(--color-green);
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 120px 20px 120px;
+
+}
+
+.column {
+    flex: 1;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.column h2 {
+    font-size: 24px;
+    color: var(--color-green);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.column ul {
+    list-style: none;
+    padding: 0;
+    text-align: center; 
+}
+
+.column ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.contactList {
+    text-align: center; 
+}
+
+.contactList li {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.contactList li a {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: var(--color-white);
+    text-decoration: none;
+}
+
+.contactList li a:hover {
+    color: var(--color-green);
+}
+
+.contactList svg {
+    margin-right: 10px;
+    fill: var(--color-green);
+}
+
+.contactList span {
+    color: var(--color-white);
+}
+
+.copyright {
+    margin-top: 50px;
+    color: var(--color-light-grey);
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        font-size: 24px;
+    }
+
+    .slogan {
+        font-size: 14px;
+        margin-top: -5px;
+    }
+
+    .row {
+        flex-direction: column;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+
+    .column {
+        width: 80%;
+        margin: 0 auto 20px;
+    }
+
+    .column h2 {
+        font-size: 20px;
+    }
+
+    .column ul li {
+        font-size: 14px;
+    }
+
+    .contactList li a {
+        font-size: 14px;
+    }
+
+    .copyright {
+        margin-top: 10px;
+    }
+}
+
+
+  

@@ -1,0 +1,88 @@
+.addProductContainer {
+    width: 450px;
+    background: var(--color-white);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    margin: 50px auto;
+    text-align: center;
+}
+
+.addProductHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--color-green);
+    padding: 10px 20px;
+    border-radius: 8px 8px 0 0;
+    color: var(--color-white);
+}
+
+.closeButton {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--color-white);
+}
+
+.closeButton:hover {
+    color: var(--color-grey);
+}
+
+.addProductForm {
+    padding: 20px;
+}
+
+.inputField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.categoryField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: var(--color-white);
+    color: var(--color-grey);
+    font-family: var(--font-secondary);
+}
+
+.categoryField option {
+    background-color: var(--color-white);
+    color: var(--color-grey);
+    font-family: var(--font-secondary);
+}
+
+.categoryField option:checked {
+    background-color: var(--color-light-grey);
+    color: var(--color-grey);
+    font-weight: bold;
+}
+
+.buttonsContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.addProductBtn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: var(--color-green);
+    color: white;
+}
+
+.addProductBtn:hover {
+    background-color: var(--color-dark-green);
+}

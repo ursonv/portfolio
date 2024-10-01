@@ -1,0 +1,7 @@
+.noResultsContainer {
+    text-align: center;
+    color: var(--color-black);
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  

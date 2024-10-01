@@ -1,0 +1,149 @@
+.signupContainer {
+  width: 450px;
+  background: var(--color-white);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  margin: 50px auto;
+  text-align: center;
+}
+
+.signupHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--color-green);
+  padding: 10px 20px;
+  border-radius: 8px 8px 0 0;
+  color: var(--color-white);
+}
+
+.closeButton {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+
+.closeButton:hover {
+  color: var(--color-grey);
+}
+
+.signupForm {
+  padding: 20px;
+}
+
+.inputField {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.termsContainer {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.termsContainer input {
+  margin-right: 10px;
+}
+
+.termsContainer label {
+  font-size: 12px;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.accountBtn, .signupBtn {
+  width: 48%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.accountBtn {
+  background-color: white;
+  color: var(--color-green);
+  border: 1px solid var(--color-green);
+  margin-right: 2px;
+}
+
+.signupBtn {
+  background-color: var(--color-green);
+  color: white;
+  margin-left: 2px;
+}
+
+.generateBtn, .showPasswordBtn {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: var(--color-green);
+  color: var(--color-white);
+  margin-left: 10px;
+}
+
+.passwordContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.socialLogin {
+  padding: 20px;
+  border-top: 1px solid #ccc;
+}
+
+.socialLogin p {
+  color: var(--color-grey);
+}
+
+.socialIcons a {
+  margin: 0 10px;
+}
+
+.errorMessage {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.roleField {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.roleField label {
+  margin-right: 10px;
+}
+
+.roleField select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: var(--color-white);
+  color: var(--color-grey);
+  font-family: var(--font-secondary);
+}
+
+.roleField option {
+  background-color: var(--color-white);
+  color: var(--color-grey);
+  font-family: var(--font-secondary);
+}
+
+.roleField option:checked {
+  background-color: var(--color-light-grey);
+  color: var(--color-grey);
+  font-weight: bold;
+}

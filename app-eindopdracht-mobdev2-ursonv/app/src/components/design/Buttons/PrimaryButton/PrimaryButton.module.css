@@ -1,0 +1,14 @@
+.button {
+    background-color: var(--color-green); /* Mintgroene kleur */
+    color: var(--color-white);
+    border: none;
+    padding: 15px 30px;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: var(--color-green-hover);
+}

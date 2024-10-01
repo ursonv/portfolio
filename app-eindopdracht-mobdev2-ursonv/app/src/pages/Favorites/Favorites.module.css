@@ -1,0 +1,55 @@
+.favorites {
+    padding: 20px;
+}
+
+.favoriteTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.favoriteTable th,
+.favoriteTable td {
+    border: 1px solid var(--color-grey);
+    padding: 10px;
+    text-align: left;
+}
+
+.favoriteTable th {
+    background-color: var(--color-light-grey);
+}
+
+.favoriteTable th:first-child,
+.favoriteTable td:first-child {
+    border-left: none;
+}
+
+.favoriteTable th:last-child,
+.favoriteTable td:last-child {
+    border-right: none;
+}
+
+.favoriteTable tbody tr:nth-child(even) {
+    background-color: var(--color-light-grey);
+}
+
+.deleteButton {
+    padding: 5px 10px;
+    background-color: var(--color-grey);
+    color: var(--color-white);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.deleteButton:hover {
+    background-color: var(--color-green);
+}
+
+.favoriteImage {
+    width: 50px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}

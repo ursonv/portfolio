@@ -1,0 +1,40 @@
+.contactForm {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .errorMessage {
+    color: var(--color-red);
+    margin-bottom: 10px;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid var(--color-grey);
+    border-radius: 5px;
+  }
+  
+  .textareaField {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid var(--color-grey);
+    border-radius: 5px;
+  }
+  
+  .submitButton {
+    background-color: var(--color-green);
+    color: var(--color-white);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submitButton:hover {
+    background-color: var(--color-green);
+  }
+  
